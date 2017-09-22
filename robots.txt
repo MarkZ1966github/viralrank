@@ -1,0 +1,8 @@
+# 1) this filename (robots.txt) must stay lowercase
+# 2) this file must be in the servers root directory
+User-agent: *
+Disallow: /
+Disallow: /bootstrap/
+Disallow: /content/
+Disallow: /logic/
+Disallow: /files/
